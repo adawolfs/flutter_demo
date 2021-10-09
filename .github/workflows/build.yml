@@ -24,4 +24,3 @@ jobs:
         folder: assets # The folder the action should deploy.
         target-folder: assets
         clean: false # Clean destination before deploy files
-©
